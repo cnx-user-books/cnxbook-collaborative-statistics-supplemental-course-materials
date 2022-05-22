@@ -1,0 +1,69 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elementary Statistics: Quiz 8: Confidence Intervals</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d5206d88-96ce-46c4-8da8-1ff8eb1d7190</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-738"><problem id="idm3124656">
+  <para id="element-409">When constructing a confidence interval for the population mean, the case where the population standard deviation is known is __________.</para><list id="element-706" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>possible, and the most common</item>
+<item><label>B</label>possible, but not common</item>
+<item><label>C</label>possible, and quite common</item>
+<item><label>D</label>impossible</item></list>
+</problem></exercise><exercise id="element-411"><problem id="idp3456816">
+  <para id="element-587">When constructing a Confidence Interval, which case is preferable?</para><list id="element-967" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>large confidence level, small confidence interval</item>
+<item><label>B</label>small confidence level, small confidence interval</item>
+<item><label>C</label>small confidence level, large confidence interval</item>
+<item><label>D</label>large confidence level, large confidence interval</item></list>
+</problem></exercise><exercise id="element-185"><problem id="idp4781984">
+  <para id="element-459">Which of the following is NOT a point estimate?</para><list id="element-291" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>x-bar</item>
+<item><label>B</label>p-hat or p-prime</item>
+<item><label>C</label>s</item>
+<item><label>D</label>sigma</item></list>
+</problem></exercise><exercise id="element-914"><problem id="idp144000">
+  <para id="element-376">When should the Student-t distribution be used in constructing a confidence interval for the population mean?</para><list id="element-843" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>When the population proportion is known and the underlying population is normally distributed.</item>
+<item><label>B</label>When the population standard deviation is unknown and the underlying population is normally distributed.</item>
+<item><label>C</label>When the population proportion is unknown and the underlying population is normally distributed.</item>
+<item><label>D</label>When the population standard deviation is known and the underlying population is normally distributed.</item></list>
+</problem></exercise><exercise id="element-573"><problem id="idm5645888">
+  <para id="element-431">When constructing a Confidence Interval for the population mean and both the sample standard deviation and the population standard deviation are known, which of the following should be used?</para><list id="element-725" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>normal distribution using the sample standard deviation</item>
+<item><label>B</label>normal distribution using the population standard deviation</item>
+<item><label>C</label>student-t distribution using the population standard deviation</item>
+<item><label>D</label>student-t distributuion using the sample standard deviation</item></list>
+</problem></exercise><exercise id="element-609"><problem id="idm897968">
+  <para id="element-842">A study was done to determine the proportion of voters that feel that their local government is doing an adequate job. Of the 160 voters surveyed, 144 feel that their local government is doing an adequate job. Calculate the 95% confidence interval for the true proportion of voters that feel that their government is doing an adequate job.</para><list id="element-981" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>(0.85, 0.95)</item>
+<item><label>B</label>0.90</item>
+<item><label>C</label>(0.80, 1.00)</item>
+<item><label>D</label>(144, 160)</item></list>
+</problem></exercise><exercise id="element-48"><problem id="idm15717840">
+  <para id="element-476">To reduce the error bound in a future study, which of the following should be done?</para><list id="element-589" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>increase the sample size n</item>
+<item><label>B</label>decrease the sample size n</item>
+<item><label>C</label>conduct a biased survey</item>
+<item><label>D</label>increase the confidence level</item></list>
+</problem></exercise><exercise id="element-893"><problem id="idm3678080">
+  <para id="element-901">A study was done to determine the average number of homes that a homeowner owns in his or her lifetime. For the 60 homeowners surveyed, the sample average was 4.2 and the sample standard deviation was 2.1. Calculate the 95% confidence interval for the true average number of homes that a person owns in his or her lifetime.</para><list id="element-785" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>(3.90, 4.50)</item>
+<item><label>B</label>(3.66, 4.74)</item>
+<item><label>C</label>(4.01, 4.39)</item>
+<item><label>D</label>(3.67, 4.73)</item></list>
+</problem></exercise><exercise id="element-58"><problem id="idp2976080">
+  <para id="element-719">A study was done to determine the average number of homes that a homeowner owns in his or her lifetime. For the 60 homeowners surveyed, the sample average was 4.2 and the sample standard deviation was 2.1. The distribution to use to calculate the 95% confidence interval is ________________.</para><list id="element-170" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>Exponential</item>
+<item><label>B</label>Student-t with df = 59</item>
+<item><label>C</label>Student-t with df = 60</item>
+<item><label>D</label>Binomial</item></list>
+</problem></exercise><exercise id="element-881"><problem id="idm2133632">
+  <para id="element-932">Calculate the error bound for a survey in which the sample mean is 5, the population standard deviation is 3, the confidence level is 0.90, and the number surveyed is 12.</para><list id="element-755" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>1.56</item>
+<item><label>B</label>1.42</item>
+<item><label>C</label>(3.58, 6.42)</item>
+<item><label>D</label>(3.44, 6.56)</item></list>
+</problem></exercise>   
+  </content>
+  
+</document>

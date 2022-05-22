@@ -1,0 +1,85 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elementary Statistics: Quiz 1: Sampling and Data</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>45a66ef3-a78b-4d90-9c8d-7510738880ab</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-351"><problem id="idp5183440">
+  <para id="element-144">A study is done to determine the average amount of television watched per week by California children. What is the phrase “average amount of television watched per week by California children” describing?
+  </para>
+<list id="element-370" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>data</item>
+<item><label>B</label>statistic</item>
+<item><label>C</label>parameter</item>
+<item><label>D</label>variable</item></list>
+</problem>
+</exercise><exercise id="element-827"><problem id="idp3977088">
+  <para id="element-575">
+    How should you classify data from the following: What are the names of colleges you have attended?
+  </para><list id="element-559" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>quantitative - continuous</item>
+<item><label>B</label>quantitative - discrete</item>
+<item><label>C</label>qualitative</item></list>
+</problem>
+</exercise><exercise id="element-470"><problem id="idm1860608">
+  <para id="element-260">
+   How should you classify data from the following: What is the number of times during the summer that you go to the beach?
+  </para><list id="element-307" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>quantitative - continuous</item>
+<item><label>B</label>quantitative - discrete</item>
+<item><label>C</label>qualitative</item></list>
+</problem>
+</exercise><exercise id="element-443"><problem id="idm471392">
+  <para id="element-885">
+    How should you classify data from the following: What is your weight?
+  </para><list id="element-492" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>quantitative - continuous</item>
+<item><label>B</label>quantitative - discrete</item>
+<item><label>C</label>qualitative</item></list>
+</problem>
+</exercise><exercise id="element-477"><problem id="idm7497824">
+  <para id="element-464">
+    A study is done to determine the average salary for all Santa Clara County nurses. If we were to pick the Valley Medical Center, Good Samaritan Hospital, and Saint Louise Hospital in Santa Clara County and average together the salaries of all nurses, would this be a good sampling technique or a bad sampling technique?
+  </para>
+</problem></exercise><exercise id="element-30"><problem id="idm302112">
+  <para id="element-781">A study is done to determine the average amount of television watched per week by California children. What is the phrase "the average amount of television watched per week by California children in a random survey" describing?
+  </para><list id="element-427" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>sample</item>
+<item><label>B</label>variable</item>
+<item><label>C</label>statistic</item>
+<item><label>D</label>data</item></list>
+</problem>
+
+</exercise><exercise id="element-202"><problem id="idm8414368">
+  <para id="element-314">A study is done to determine the average amount of television watched per week by California children. Three of the California children watch two hours, 1 hour, and one-half hour, respectively. "Two hours, 1 hour, and one-half hour" are the:
+  </para><list id="element-671" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>data</item>
+<item><label>B</label>statistic</item>
+<item><label>C</label>parameter</item>
+<item><label>D</label>sample</item></list>
+</problem></exercise><exercise id="element-850"><problem id="idp6005856">
+  <para id="element-461">Determine the sampling technique: A medical researcher does a random survey of 100 female doctors and 100 male doctors.
+  </para><list id="element-198" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>stratified</item>
+<item><label>B</label>systematic</item>
+<item><label>C</label>simple random</item>
+<item><label>D</label>cluster</item></list>
+</problem>
+</exercise><exercise id="element-51"><problem id="idp4817776">
+  <para id="element-250">Sixty-three people were asked the number of movies they saw in the movie theaters over their last vacation. Which of the following columns do we <emphasis>NOT</emphasis> add up?
+  </para><list id="element-821" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>frequency</item>
+<item><label>B</label>relative frequency</item>
+<item><label>C</label>cumulative relative frequency</item></list>
+</problem>
+</exercise><exercise id="element-393"><problem id="idp13293952">
+  <para id="element-428">Sixty-three people were asked the number of movies they saw in the movie theaters over their last vacation. Twenty-two people saw no movies, fourteen people saw one movie, ten people saw two movies, seven people saw three movies, six people saw four movies, and four people saw 5 or more movies.  What percent of people saw 1 or 2 movies?
+  </para><list id="element-700" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>about 19%</item>
+<item><label>B</label>about 38%</item>
+<item><label>C</label>about 60%</item>
+<item><label>D</label>about 89%</item></list>
+</problem>
+</exercise>   
+  </content>
+  
+</document>

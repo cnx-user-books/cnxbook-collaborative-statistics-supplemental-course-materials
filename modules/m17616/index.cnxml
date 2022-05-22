@@ -1,0 +1,330 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elementary Statistics: Exam 4: Lessons 8, 9 &amp; 10</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>8ef75beb-7622-4c05-a1ec-8e8b0f971c2a</md:uuid>
+</metadata>
+  <content>
+    <list id="element-203" list-type="bulleted"><item>Each question has exactly one best answer.</item>
+<item>Each question is worth 3 points for a total of 54 points (4 bonus points possible).</item>
+    </list><para id="element-464"><title>Questions 1 – 3 refer to the following:</title>Last year, President Bush granted a tax-cut check to all income tax filers. In doing so, it was reported that he thought that at least 30% of the households would use the tax-cut check to increase spending. According to a report by the University of Michigan Research Center (Wall Street Journal, Feb. 26, 2002), 220 of the 1000 people surveyed said that the 2001 tax-cut check they received has led them to increase spending. </para><exercise id="element-433"><problem id="idm9534224">
+  <para id="element-398">
+    The alternate hypothesis for this test is:
+  </para>	<list id="element-da10" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>p&gt;0.30</item>
+	<item><label>B</label>p&gt;0.22</item>
+	<item><label>C</label>p&gt;0.30</item>
+	<item><label>D</label>p&gt;0.22</item></list>
+</problem>
+
+<solution id="idm7021296">
+  <para id="element-247">
+    C
+  </para>
+</solution>
+</exercise><exercise id="element-696"><problem id="idm10064160">
+  <para id="element-155">
+    A Type II error is to:
+  </para>	<list id="element-0da11" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>Conclude that the proportion of people that would use the tax-cut check to increase spending is less than 30% when in fact the proportion is at least 30%.</item>
+	<item><label>B</label>Conclude that the proportion of people that would use the tax-cut check to increase spending is at least 30% when in fact the proportion is less than 30%.</item>
+	<item><label>C</label>Conclude that the proportion of people that would use the tax-cut check to increase spending is less than 22% when in fact the proportion is at least 22%.</item>
+	<item><label>D</label>Conclude that the proportion of people that would use the tax-cut check to increase spending is at least 22% when in fact the proportion is less than 22%.</item></list>
+</problem>
+
+<solution id="idm19544352">
+  <para id="element-14">
+    B
+  </para>
+</solution>
+</exercise><exercise id="element-559"><problem id="idp219280">
+  <para id="element-498">
+Which of the following is the correct decision to make for the test?
+  </para>	<list id="element-0wqw1" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>Reject the null hypothesis.</item>
+	<item><label>B</label>Do not reject the null hypothesis.</item>
+	<item><label>C</label>The test is inconclusive.</item>
+</list>
+</problem>
+
+<solution id="idm4473472">
+  <para id="element-273">
+    C
+  </para>
+</solution>
+</exercise><para id="element-935"><title>Questions 4 – 6 refer to the following:</title>According to an article by George Will (San Jose Mercury News, Feb. 28, 2002), the average U.S. consumption per person per year of French Fries is 28 pounds. Suppose that you believe that the average in Santa Clara County is not 28 pounds. You randomly survey 50 people in this county. The sample average is 24 pounds with a sample standard deviation of 10 pounds. Conduct an appropriate hypothesis test.</para><exercise id="element-255"><problem id="idm2292496">
+  <para id="element-746">
+    This test is:
+  </para>	<list id="element-0s1sa" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>left-tailed</item>
+	<item><label>B</label>right-tailed</item>
+	<item><label>C</label>two-tailed</item>
+	<item><label>D</label>no-tailed</item></list>
+</problem>
+
+<solution id="idm13762144">
+  <para id="element-342">
+    C
+  </para>
+</solution>
+</exercise><exercise id="element-138"><problem id="idm6909200">
+  <para id="element-900">
+The p-value for this test is:
+  </para>	<list id="element-0s2fa" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>0.0068</item>
+	<item><label>B</label>0.0034</item>
+	<item><label>C</label>0.0047</item>
+	<item><label>D</label>0.0136</item></list>
+</problem>
+
+<solution id="idm617168">
+  <para id="element-608">
+    A
+  </para>
+</solution>
+</exercise><exercise id="element-958"><problem id="idm773584">
+  <para id="element-424">
+At the 5% level, the correct conclusion is:
+  </para>	<list id="element-0sf1" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>The average consumption in Santa Clara County is less than 28 pounds.</item>
+	<item><label>B</label>The average consumption in Santa Clara County is not 28 pounds.</item>
+	<item><label>C</label>The average consumption in Santa Clara County is less than 24 pounds.</item>
+	<item><label>D</label>The average consumption in Santa Clara County is 24 pounds.</item></list>
+</problem>
+
+<solution id="idm5683472">
+  <para id="element-40">
+    B
+  </para>
+</solution>
+</exercise><para id="element-812"><title>Questions 7 and 8 refer to the following:</title>A hospital administrator wants to determine the proportion of emergency room patients that use the emergency room (ER) for non-emergency care. She randomly samples records from 350 ER patients and determines that 74 of those patients required only non-emergency care.</para><exercise id="element-374"><problem id="idm10799920">
+  <para id="element-20">
+The administrator constructs a 90% confidence interval for the true proportion of all ER patients who use the ER for non-emergency care. The error bound for the proportion EBP for this confidence interval is:
+  </para>	<list id="element-0da1vv" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>0.036</item>
+	<item><label>B</label>0.072</item>
+	<item><label>C</label>0.030</item>
+	<item><label>D</label>0.106</item></list>
+</problem>
+
+<solution id="idm19407968">
+  <para id="element-103">
+    A
+  </para>
+</solution>
+</exercise><exercise id="element-491"><problem id="idm2306208">
+  <para id="element-104">
+    If the same data were used but the confidence level used was 95% instead of 90%, the error bound for the proportion EBP would be:
+  </para>	<list id="element-0fs2v" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>larger</item>
+	<item><label>B</label>the same</item>
+	<item><label>C</label>smaller</item>
+	<item><label>D</label>we are unable to determine unless another sample is obtained</item></list>
+</problem>
+
+<solution id="idm8602064">
+  <para id="element-664">
+    A
+  </para>
+</solution>
+</exercise><exercise id="element-400"><problem id="idm7300416">
+  <para id="element-604">
+What is meant by the term “95% confident” when constructing a confidence interval for a mean?
+  </para>	<list id="element-0bbe" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>If we took repeated samples, approximately 95% of the samples would produce the same confidence interval.</item>
+	<item><label>B</label>If we took repeated samples, approximately 95% of the confidence intervals calculated from those samples would contain the sample mean.</item>
+	<item><label>C</label>If we took repeated samples, the sample mean would equal the population mean in approximately 95% of the samples.</item>
+	<item><label>D</label>If we took repeated samples, approximately 95% of the confidence intervals calculated from those samples would contain the true value of the population mean.</item></list>
+</problem>
+
+<solution id="idm1721776">
+  <para id="element-504">
+    D
+  </para>
+</solution>
+</exercise><para id="element-322"><title>Questions 10 through 11 refer to the following:</title>An aircraft manufacturer is testing a new procedure to be used in installing a certain component in an aircraft. For a random sample of 8 airplanes being assembled, the time (in minutes) required to install the component for each of these 8 aircrafts are:</para><para id="element-841"><list list-type="labeled-item" display="inline" id="set-344"><item>80</item><item>84</item><item>87</item><item>91</item><item>91</item><item>95</item><item>102</item><item>106</item></list></para><para id="element-540">Assume the underlying population of installation times is approximately normally distributed.</para><exercise id="element-167"><problem id="idm20083632">
+  <para id="element-856">
+Find the 90% confidence interval for the true mean installation time using this new procedure.
+  </para>	<list id="element-0fs" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>(86.1, 97.9) </item>
+	<item><label>B</label>(86.9, 91.1)</item>
+	<item><label>C</label>(87.2, 96.8)</item>
+	<item><label>D</label>Not enough information</item></list>
+</problem>
+
+<solution id="idm8539888">
+  <para id="element-307">
+    A
+  </para>
+</solution>
+</exercise><exercise id="element-227"><problem id="idp1621984">
+  <para id="element-469">
+The value that is the center of the confidence interval is:
+  </para>	<list id="element-0hf41" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>91</item>
+	<item><label>B</label>92</item>
+	<item><label>C</label>93</item>
+	<item><label>D</label>μ</item></list>
+</problem>
+
+<solution id="idm8430592">
+  <para id="element-476">
+    B
+  </para>
+</solution>
+</exercise><exercise id="element-30"><problem id="idm4518144">
+  <para id="element-388">The amount of soda contained in a can for a certain brand of soda is normally distributed with a population standard deviation of 0.1 ounces. A random sample of 40 cans of soda was selected and the amount of soda in each can was measured. The sample mean was 12.03 ounces and the sample standard deviation was 0.08 ounces.</para><para id="element-917">
+What is the appropriate distribution to use when calculating a confidence interval for the true mean amount of soda contained in all cans of this brand?
+  </para>	<list id="element-08jkl" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>The student-t distribution, because the sample standard deviation is given.</item>
+	<item><label>B</label>The student-t distribution, because the repair costs are approximately normally distributed.</item>
+	<item><label>C</label>The standard normal distribution, because the population standard deviation is known.</item>
+	<item><label>D</label>The standard normal distribution, because the sample mean is known.</item></list>
+</problem>
+
+<solution id="idm8171424">
+  <para id="element-513">
+    C
+  </para>
+</solution>
+</exercise><para id="element-181"><title>Questions 13 – 15 refer to the following:</title>Two competing parcel-delivery firms in a large city make conflicting claims about which one delivers parcels in the shortest time. A random sample of 100 delivery times for the first company produces a sample mean of x1 = 37 minutes and a sample standard deviation of s1 = 10 minutes. A random sample of 100 delivery times for the second company produces a sample mean of x2 = 41 minutes and a sample standard deviation of s2 = 12 minutes. Conduct a hypothesis test to determine if the mean delivery time for the first company is less than that for the second company.</para><exercise id="element-280"><problem id="idm3711904">
+  <para id="element-309">
+What is the appropriate distribution to use when calculating a confidence interval for the true mean amount of soda contained in all cans of this brand?
+  </para>	<list id="element-02fsq" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>m1 &lt; m2 </item>
+	<item><label>B</label>m1 &gt; m2</item>
+	<item><label>C</label>m1 £ m2</item>
+	<item><label>D</label>m1 ³ m2</item></list>
+</problem>
+
+<solution id="idm4766560">
+  <para id="element-786">
+    D
+  </para>
+</solution>
+</exercise><exercise id="element-783"><problem id="idm10503824">
+  <para id="element-163">
+The exact distribution for the hypothesis test is:
+  </para>	<list id="element-0cqer" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>The normal distribution because the population standard deviations are given.</item>
+	<item><label>B</label>The student-t distribution because the population standard deviations are unknown.</item>
+	<item><label>C</label>The exponential distribution because the time of delivery decreases.</item>
+	<item><label>D</label>Not able to determine.</item></list>
+</problem>
+
+<solution id="idm11349312">
+  <para id="element-324">
+    B
+  </para>
+</solution>
+</exercise><exercise id="element-641"><problem id="idm7814192">
+  <para id="element-649">
+f the p-value is 0.0056, the conclusion is:
+  </para>	<list id="element-0vvf" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>The mean delivery time for the first company is higher than the mean delivery time for the second company.</item>
+	<item><label>B</label>The mean delivery time for the first company is no more than the mean delivery time for the second company.</item>
+	<item><label>C</label>The mean delivery time for the first company is at least equal to the mean delivery time for the second company.</item>
+	<item><label>D</label>The mean delivery time for the first company is less than the mean delivery time for the second company.</item></list>
+</problem>
+
+<solution id="idm8641648">
+  <para id="element-426">
+    D
+  </para>
+</solution>
+</exercise>
+
+<para id="element-481"><title>Questions 16 – 17 refer to the following:
+</title>Participants in a random sample of 10 professional football players are placed on a yogurt-and-banana diet for one month. The weights before and after one month on the diet are as follow:</para>
+
+<table id="element-413" summary="The first row shows before weights, and the second row shows after ">
+
+<tgroup cols="11"><colspec colnum="1" colname="header_c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <colspec colnum="8" colname="c8"/>
+        <colspec colnum="9" colname="c9"/>
+        <colspec colnum="10" colname="c10"/>
+        <colspec colnum="11" colname="c11"/>
+        <tbody>
+          <row>
+            <entry>Before </entry>
+            <entry>187</entry>
+            <entry>205</entry>
+            <entry>165</entry>
+            <entry>193</entry>
+            <entry>199</entry>
+            <entry>286</entry>
+            <entry>212</entry>
+            <entry>189</entry>
+            <entry>242</entry>
+            <entry>253</entry>
+          </row>
+          <row>
+            <entry>After</entry>
+            <entry>175</entry>
+            <entry>193</entry>
+            <entry>167</entry>
+            <entry>190</entry>
+            <entry>197</entry>
+            <entry>240</entry>
+            <entry>210</entry>
+            <entry>189</entry>
+            <entry>221</entry>
+            <entry>255</entry>
+          </row>
+        </tbody>
+      
+
+</tgroup>
+</table><para id="element-270">We want to determine if the yogurt-and-banana diet helps reduce the weight of the football players. Assume the weight of the professional football players is approximately normally distributed. </para><exercise id="element-380"><problem id="idp336048">
+  <para id="element-745">
+This is a test of:
+  </para>	<list id="element-0bcs" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>Two independent population means, population standard deviations known.</item>
+	<item><label>B</label>Two independent population means, population standard deviations unknown.</item>
+	<item><label>C</label>Paired or matched samples.</item>
+	<item><label>D</label>Two population proportions.</item></list>
+</problem>
+
+<solution id="idm2296208">
+  <para id="element-842">
+    C
+  </para>
+</solution>
+</exercise><exercise id="element-147"><problem id="idm745840">
+  <para id="element-931">
+The distribution for the hypothesis test is:
+  </para>	<list id="element-0ds11" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>Student-t</item>
+	<item><label>B</label>Exponential</item>
+	<item><label>C</label>Normal</item>
+	<item><label>D</label>Uniform</item></list>
+</problem>
+
+<solution id="idm10150752">
+  <para id="element-420">
+    A
+  </para>
+</solution>
+</exercise><exercise id="element-508"><problem id="idm6250240">
+  <para id="element-44">A newspaper/TV network survey was conducted to determine whether the percentage of adult males who favor the death penalty is greater than the percentage of adult females who favor the death penalty. A random sample of 800 adult males produced 480 who favor the death penalty., while a random sample of 800 adult females produced 410 who favor the death penalty.</para><para id="element-617">
+The Type I error is to:
+  </para>	<list id="element-0g21" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>Conclude that the percentage of adult males who favor the death penalty is greater than the percentage of adult females who favor the death penalty when, in fact, the percentage of males is no more than the percentage of females.</item>
+	<item><label>B</label>Conclude that the percentage of adult males who favor the death penalty is no more than the percentage of adult females who favor the death penalty when, in fact, the percentage of males is more than the percentage of females.</item>
+	<item><label>C</label>Conclude that the percentage of adult males who favor the death penalty is greater than the percentage of adult females who favor the death penalty when, in fact, the percentage of males is actually greater than the percentage of females.</item>
+	<item><label>D</label>Conclude that the percentage of adult males who favor the death penalty is no more than the percentage of adult females who favor the death penalty when, in fact, the percentage of males is actually no more than the percentage of females.</item></list>
+</problem>
+
+<solution id="idm2136976">
+  <para id="element-286">
+    A
+  </para>
+</solution>
+</exercise>   
+  </content>
+  
+</document>

@@ -1,0 +1,113 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elementary Statistics: Quiz 7: The Central Limit Theorem</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>026f7706-1310-404a-985a-1b143fa073f1</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-807"><problem id="idm4132928">
+  <para id="element-834">
+    Given that X ~ N(300, 15), we survey 20 at a time and are interested in the distribution of X-bar. As the number of data values averaged together gets larger, what happens to the standard error of the mean (the standard deviation of X-bar)?
+  </para><list id="element-781" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>It becomes larger.</item>
+<item><label>B</label>It becomes smaller.</item>
+<item><label>C</label>It approaches the average of X-bar.</item>
+<item><label>D</label>It approaches the standard deviation of X.</item></list>
+</problem>
+</exercise><exercise id="element-660"><problem id="idm195376">
+  <para id="element-40">
+    Given X ~ Exp(1/8), we survey 100 at a time and are interested in the distribution of X-bar. Find the standard deviation of X-bar.
+  </para><list id="element-216" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>0.8</item>
+<item><label>B</label>0.0125</item>
+<item><label>C</label>0.0800</item>
+<item><label>D</label>0.125</item></list>
+</problem>
+</exercise><exercise id="element-399"><problem id="idm9680304">
+  <para id="element-535">
+    Given X ~ Exp(1/8), we survey 100 at a time and are interested in the distribution of X-bar. Find the third quartile of X-bar.
+  </para><list id="element-317" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>6</item>
+<item><label>B</label>0.6321</item>
+<item><label>C</label>8.54</item>
+<item><label>D</label>2.30</item></list>
+</problem></exercise><exercise id="element-661"><problem id="idm10830768">
+  <para id="element-502">
+  Given that X ~ N(300, 15), we survey 20 at a time and are interested in the distribution of X-bar. Find the 33rd percentile of the distribution for X-bar.
+  </para><list id="element-481" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>298.6</item>
+<item><label>B</label>293.5</item>
+<item><label>C</label>301.4</item>
+<item><label>D</label>100.0</item></list>
+</problem>
+</exercise><exercise id="element-490"><problem id="idm12523152">
+  <para id="element-702">
+    Given that X ~ N(300, 15), we survey 20 at a time and are interested in the distribution of X-bar. Find the z-score associated with x-bar = 290.
+  </para><list id="element-525" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>-10/15</item>
+<item><label>B</label>-10</item>
+<item><label>C</label>-2.9814</item>
+<item><label>D</label>-13.3333</item></list>
+</problem>
+</exercise><exercise id="element-614"><problem id="idm208576">
+  <para id="element-671">
+    Given X ~ Exp(0.125), we survey 100 at a time and are interested in the distribution of X-bar. P(X-bar &lt; 7)= ____________.
+  </para>
+<list id="element-13" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>0.1056</item>
+<item><label>B</label>0.5831</item>
+<item><label>C</label>0.9987</item>
+<item><label>D</label>0.0001</item></list>
+</problem>
+
+</exercise><exercise id="element-189"><problem id="idm6804096">
+  <para id="element-173">Given X ~ U(2,18), we survey forty at a time and are interested in the distribution of X-bar. The standard deviation of X-bar is:</para>
+<list id="element-394" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>1.5811</item>
+<item><label>B</label>0.1155</item>
+<item><label>C</label>0.7303</item>
+<item><label>D</label>4.62</item>
+</list>
+</problem>
+
+</exercise><exercise id="element-218"><problem id="idm4308080">
+  <para id="element-374">
+    Given X ~ U(2,18), we survey forty at a time and are interested in the distribution of X-bar. P(X &lt; 4) is ______ P(X-bar &lt; 4).
+  </para>
+<list id="element-171" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>less than</item>
+<item><label>B</label>equal to</item>
+<item><label>C</label>greater than</item>
+<item><label>D</label>at most</item>
+</list>
+</problem>
+
+
+</exercise><exercise id="element-33"><problem id="idp736368">
+  <para id="element-685">
+    Given X ~ U(2,18), we survey forty at a time and are interested in the distribution of X-bar. P(2 &lt; X &lt; 18) is _______ P(2 &lt; X-bar &lt; 18)
+  </para>
+<list id="element-426" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>less than</item>
+<item><label>B</label>equal to</item>
+<item><label>C</label>greater than</item>
+<item><label>D</label>at most</item>
+</list>
+</problem>
+
+</exercise><exercise id="element-266"><problem id="idm4053136">
+  <para id="element-404">
+    Given that X ~ N(300, 15), we survey 20 at a time and are interested in the distribution of X-bar. What can be said about the median of the random variable X-bar?
+  </para>
+<list id="element-2" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>It is the same as the median of X.</item>
+<item><label>B</label>It is the same as the average of X-bar.</item>
+<item><label>C</label>It is the same as the average of X.</item>
+<item><label>D</label>A, B, C are all correct.</item>
+</list>
+</problem>
+
+
+
+</exercise>   
+  </content>
+  
+</document>

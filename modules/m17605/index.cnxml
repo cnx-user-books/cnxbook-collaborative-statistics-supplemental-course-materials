@@ -1,0 +1,68 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elementary Statistics: Quiz 6: The Normal Distribution</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>2563fe30-b796-4af4-8e22-89ad49c55f3b</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-357"><problem id="idp1534672">
+  <para id="element-605">Given X ~ N (300, 15), find P(280 &lt; X &lt; 340).</para><list id="element-837" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>0.2000</item>
+<item><label>B</label>0.7460</item>
+<item><label>C</label>0.9050</item>
+<item><label>D</label>0.9999</item></list>
+</problem></exercise><exercise id="element-836"><problem id="idm8000208">
+  <para id="element-305">Given X ~ N(300, 15), find the 70th percentile.</para><list id="element-493" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>0.5244</item>
+<item><label>B</label>210.00</item>
+<item><label>C</label>307.87</item>
+<item><label>D</label>324.96</item></list>
+</problem></exercise><exercise id="element-969"><problem id="idm8324320">
+  <para id="element-470">Given X ~ N(300, 15), what can be said of the median? </para><list id="element-668" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>The mode = median and the mode = the mean.</item>
+<item><label>B</label>It is the same as the mode.</item>
+<item><label>C</label>It is less than the average.</item>
+<item><label>D</label>It is the same as the average.</item></list>
+</problem></exercise><exercise id="element-405"><problem id="idm1893824">
+  <para id="element-821">Given X ~ N(300, 15), the area to the right of x = 330...</para><list id="element-323" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>is the same as the area to the right of z = 2.</item>
+<item><label>B</label>P(X &gt; 330) is the same as the area to the right of z = 2 AND to the left of X = 270.</item>
+<item><label>C</label>is the same as the area to the left of x = 270.</item>
+<item><label>D</label>is the same as the area to the left of x = 330.</item></list>
+</problem></exercise><exercise id="element-351"><problem id="idm3919904">
+  <para id="element-669">Given X ~ N(300, 15), find the Interquartile Range (IQR). </para><list id="element-927" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>0.50</item>
+<item><label>B</label>310.12</item>
+<item><label>C</label>20.24</item>
+<item><label>D</label>289.99</item></list>
+</problem></exercise><exercise id="element-464"><problem id="idm7724800">
+  <para id="element-921">Given X ~ N(300, 15), find the z-score associated with x = 290.</para><list id="element-655" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>15/10</item>
+<item><label>B</label>-10</item>
+<item><label>C</label>10/15</item>
+<item><label>D</label>-10/15</item></list>
+</problem></exercise><exercise id="element-733"><problem id="idm14010528">
+  <para id="element-1">For what do we use z-scores?</para><list id="element-594" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>Because of the use of technology, there is no longer any use for z-scores.</item>
+<item><label>B</label>to standardize scores from two or more different normal distributions so that we may compare the scores.</item>
+<item><label>C</label>to help us calculate uniform and exponential probabilities.</item>
+<item><label>D</label>to make our calculations easier because the mean = 0.</item></list>
+</problem></exercise><exercise id="element-912"><problem id="idm4790032">
+  <para id="element-184">Given that X ~ N(10, 2), X &gt; 20...</para><list id="element-674" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>cannot happen.</item>
+<item><label>B</label>can happen 1/5 of the time.</item>
+<item><label>C</label>is very unlikely to occur.</item>
+<item><label>D</label>we cannot determine its probability.</item></list>
+</problem></exercise><exercise id="element-484"><problem id="idp3008336">
+  <para id="element-514">Given that X ~ N(10, 2) and Y follows the Exponential Distribution with a mean of 10, which of the following are correct?</para><list id="element-452" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>The median for Y is greater than the median for X.</item>
+<item><label>B</label>The median for Y is less than the median for X.</item>
+<item><label>C</label>The percentiles for X and Y are also equal.</item>
+<item><label>D</label>The median for X and Y are also equal. </item></list>
+</problem></exercise><exercise id="element-412"><problem id="idp4117472">
+  <para id="element-711">For data that is normally distributed, is it possible for the standard deviation to be larger than the mean?</para><list id="element-610" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>No.</item>
+<item><label>B</label>Yes.</item>
+<item><label>C</label>There is not enough information to determine.</item></list>
+</problem></exercise>   
+  </content>
+  
+</document>

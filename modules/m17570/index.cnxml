@@ -1,0 +1,15 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Video Lecture 9: Hypothesis Testing with a Single Mean</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m17570</md:content-id>
+  <md:title>Video Lecture 9: Hypothesis Testing with a Single Mean</md:title>
+  <md:abstract>This video lecture is designed as a supplement to the Hypothesis Testing: Single Mean and Single Proportion chapter of Collaborative Statistics (col10522) by Barbara Illowsky and Susan Dean. In this chapter, students can expect to learn how to differentiate between Type I and Type II Errors; describe hypothesis testing in general and in practice; and conduct and interpret hypothesis tests for single population means, known and unknown population standard deviation, and also proportions.</md:abstract>
+  <md:uuid>fcc775c4-e253-4280-90ad-4a0c6e6516fb</md:uuid>
+</metadata>
+ <content>
+<para id="element-352"><emphasis>Note:</emphasis> A captioned version of this video is currently unavailable. This will be updated shortly.</para><figure id="id1165049070016"><media id="yt-media" display="block" alt="This video lecture is designed as a supplement to Chapter 9 of Collaborative Statistics (col10522) by Barbara Illowsky and Susan Dean. In this chapter, students can expect to learn how to differentiate between Type I and Type II Errors; describe hypothesis testing in general and in practice; and conduct and interpret hypothesis tests for single population means, known and unknown population standard deviation, and also proportions.">
+   <iframe width="425" height="344" src="https://www.youtube.com/embed/gpL0mAZ_JfE"/>
+</media>
+</figure></content>
+  
+</document>

@@ -1,0 +1,199 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elementary Statistics: Quiz 3: Probability Topics</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>e652efc3-4d67-4d19-9209-d78442df8883</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-396"><problem id="idp3361008">
+  <para id="element-989">Given: <list id="element-342" list-type="bulleted"><item>P(A) = 0.4</item>
+<item>P(B) = 0.6</item>
+<item>P(A OR B) = 0.91</item>
+</list>
+Find P(A|B).
+  </para><list id="element-65" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>0.24</item>
+<item><label>B</label>0.4</item>
+<item><label>C</label>0.15</item>
+<item><label>D</label>Cannot be determined.</item>
+</list>
+</problem>
+</exercise><exercise id="element-753"><problem id="idp198960">
+  <para id="element-985">If J and K are INDEPENDENT events, then which of the following is TRUE?
+  </para><list id="element-29" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>P(J OR K) = P(J) + P(K) - P(J)*P(K)</item>
+<item><label>B</label>P(J AND K) = 0</item>
+<item><label>C</label>J and K are mutually exclusive events.</item>
+<item><label>D</label>P(J OR K) = 0</item>
+</list>
+</problem>
+</exercise><exercise id="element-341"><problem id="idm11769232">
+  <para id="element-499">
+   A poll concerning credit cards found that 35 percent of respondents use a credit card that gives them one mile of air travel for every dollar they charge. Thirty percent of the respondents charge more than $2000 per month. Of those respondents who charge more than $2000, 80 percent use a credit card that gives them one mile of air travel for every dollar they charge. What is the probability that a randomly selected respondent expected to spend more than $2000 AND use a credit card that gives them a mile of air travel for every dollar they charge?
+  </para><list id="element-913" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>(0.80)(0.35)</item>
+<item><label>B</label>(0.80)(0.30)</item>
+<item><label>C</label>(0.30)(0.35)</item>
+<item><label>D</label>0.80</item>
+</list>
+</problem>
+</exercise><exercise id="element-270"><problem id="idp4060912">
+  <para id="element-650">
+    If P(J) = 0.3, P(K) = 0.6, and J and K are independent events, then:
+  </para><list id="element-453" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>P(J and K) = 0</item>
+<item><label>B</label>P(J OR K) = 0</item>
+<item><label>C</label>P(J) does not equal P(J|K).</item>
+<item><label>D</label>P(J OR K) = 0.72</item>
+</list>
+</problem>
+</exercise><exercise id="element-268"><problem id="idp8663696">
+  <para id="element-991">
+    When sampling WITHOUT replacement, the second pick is
+  </para><list id="element-115" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>independent from the first pick.</item>
+<item><label>B</label>a complement of the first pick.</item>
+<item><label>C</label>mutually exclusive from the first pick.</item>
+<item><label>D</label>dependent on the first pick.</item></list>
+</problem>
+</exercise><exercise id="element-404"><problem id="idm10905680">
+  <para id="element-654">Given: <list id="element-565" list-type="bulleted">
+<item>P(A) = 0.4</item>
+<item>P(B) = 0.6</item>
+<item>P(A OR B) = 0.65</item>
+</list>
+ 
+Find P(A AND B)
+  </para><list id="element-292" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>0.35</item>
+<item><label>B</label>1</item>
+<item><label>C</label>0.05</item>
+<item><label>D</label>0.24</item></list>
+</problem></exercise><exercise id="element-466"><problem id="idp5590096">
+  <para id="element-491">
+    In a survey at a California ski resort, 100 skiers and snowboarders of different age groups were surveyed. The information is shown in the table. Suppose one person is randomly selected. Find the probability that the person was a skier OR was age 11 - 20.
+  </para><table id="element-971" summary="">
+<title>Age of Participants by Sport</title>
+<tgroup cols="5"><colspec colnum="1" colname="header_c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+
+<thead>
+
+  <row>
+    <entry/>
+    <entry>0-10</entry>
+    <entry>11-20</entry>
+<entry>21-40</entry>
+    <entry>40+</entry>
+  </row>
+</thead>
+
+<tbody>
+
+
+  
+<row>
+    <entry>Ski</entry>
+    <entry>10</entry>
+    <entry>12</entry>
+<entry>30</entry>
+    <entry>8</entry>
+  </row>
+<row>
+    <entry>Snowboard</entry>
+    <entry>6</entry>
+    <entry>17</entry>
+<entry>12</entry>
+    <entry>5</entry>
+  </row>
+</tbody>
+
+
+
+</tgroup>
+</table><list id="element-910" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>77/100</item>
+<item><label>B</label>60/100</item>
+<item><label>C</label>12/100</item>
+<item><label>D</label>89/100</item></list>
+</problem></exercise><exercise id="element-22"><problem id="idp833504">
+  <para id="element-331">
+    A poll concerning credit cards found that 35 percent of respondents use a credit card that gives them one mile of air travel for every dollar they charge. Thirty percent of the respondents charge more than $2000 per month. Of those respondents who charge more than $2000, 80 percent use a credit card that gives them one mile of air travel for every dollar they charge. What does 0.80 represent?
+  </para><list id="element-416" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>P(air miles AND charge over $2000 per month)</item>
+<item><label>B</label>P(charge over $2000 per month | air miles)</item>
+<item><label>C</label>P(air miles OR charge over $2000 per month)</item>
+<item><label>D</label>P(air miles | charge over $2000 per month)</item></list>
+</problem>
+</exercise><exercise id="element-403"><problem id="idp1494928">
+  <para id="element-243">
+    In a survey at a California ski resort, 100 skiers and snowboarders of different age groups were surveyed. The information is shown in the table. Suppose one person is randomly selected. Find the probability that the person was a snowboarder GIVEN he/she was age 21 - 40.
+  </para>
+
+<table id="element-532" summary="Columns show ages of participants, rows show number of skiers and snowboarders in each age group, with the trend that snowboarding becomes less popular with age.">
+<title>Age of Participants by Sport</title>
+<tgroup cols="5"><colspec colnum="1" colname="header_c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+
+
+
+<thead>
+  <row>
+    <entry/>
+    <entry>0-10</entry>
+    <entry>11-20</entry>
+<entry>21-40</entry>
+    <entry>40+</entry>
+  </row>
+</thead>
+<tbody>
+<row>
+    <entry>Ski</entry>
+    <entry>10</entry>
+    <entry>12</entry>
+<entry>30</entry>
+    <entry>8</entry>
+  </row>
+<row>
+    <entry>Snowboard</entry>
+    <entry>6</entry>
+    <entry>17</entry>
+<entry>12</entry>
+    <entry>5</entry>
+  </row>
+</tbody>
+
+
+
+
+
+
+
+</tgroup>
+</table><list id="element-615" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>40/100</item>
+<item><label>B</label>12/100</item>
+<item><label>C</label>12/40</item>
+<item><label>D</label>89/42</item></list>
+</problem>
+</exercise><exercise id="element-596"><problem id="idm1303568">
+  <para id="element-820">Given: <list id="element-703" list-type="bulleted"><item>P(A) = 0.4</item>
+<item>P(B) = 0.6</item>
+<item>P(A OR B) = 0.65</item>
+</list>
+
+Which of the following is FALSE?
+  </para><list id="element-413" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>A and B are mutually exclusive.</item>
+<item><label>B</label>P(A OR B) = P(A) + P(B) - P(A AND B)</item>
+<item><label>C</label>P(A) = P(B')</item>
+<item><label>D</label>A and B are dependent events.</item></list>
+</problem>
+</exercise>   
+  </content>
+  
+</document>

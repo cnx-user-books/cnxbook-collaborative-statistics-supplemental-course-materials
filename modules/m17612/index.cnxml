@@ -1,0 +1,92 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elementary Statistics: Quiz 12: Linear Regression and Correlation</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1ce6396e-8d52-4876-9c43-fcec62d97c3e</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-490"><problem id="idm5200560">
+  <para id="element-372">If there is a linear relationship between the quantity of food a person consumes per day and the person’s weight, the quantity of food a person consumes per day is the ______________.</para><list id="element-702" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>independent variable</item>
+<item><label>B</label>Unable to determine</item>
+<item><label>C</label>dependent variable</item></list>
+</problem></exercise><exercise id="element-871"><problem id="idm15565408">
+  <para id="element-788">A correlation coefficient for 9 pairs of data is calculated to be -0.213. Is the relationship between the variables statistically significant?</para><list id="element-51" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>Unable to determine</item>
+<item><label>B</label>No</item>
+<item><label>C</label>Yes</item></list>
+</problem></exercise><exercise id="element-502"><problem id="idm14521536">
+  <para id="element-275">Consider the following pairs of data (independent variable given first):</para><para id="element-612"><list id="prob3list" list-type="labeled-item" display="inline">
+  <item>(17, 56)</item>
+  <item>(13, 48)</item>
+  <item>(35, 65)</item>
+  <item>(89, 146)</item>
+  <item>(55, 121)</item>
+  <item>(86, 130)</item>
+</list></para><para id="element-766">Calculate the Least Squares Line.</para><list id="element-424" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>y-hat = -20.93 + 0.73x</item>
+<item><label>B</label>y-hat = 33.33 + 1.24x</item>
+<item><label>C</label>y-hat = 1.24 + 33.3x</item>
+<item><label>D</label>y-hat = 0.73 - 20.93x</item></list>
+</problem></exercise><exercise id="element-388"><problem id="idm6102896">
+  <para id="element-630">A correlation coefficient for 6 pairs of data is calculated to be 0. Then,</para><list id="element-730" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>there is positive correlation between the variables.</item>
+<item><label>B</label>the Line of Best Fit has a negative slope.</item>
+<item><label>C</label>there is negative correlation between the variables.</item>
+<item><label>D</label>the Line of Best Fit has a slope of zero. </item></list>
+</problem></exercise><exercise id="element-355"><problem id="idm15585632">
+  <para id="element-515">A study is done to see if there is a linear relationship between the life expectancy of an individual and the year of birth. The year of birth is the ______________.</para><list id="element-613" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>Unable to determine</item>
+<item><label>B</label>dependent variable</item>
+<item><label>C</label>independent variable</item></list>
+</problem></exercise><exercise id="element-614"><problem id="idm2875200">
+  <para id="element-237">If you determine a point is an outlier, you would</para><list id="element-643" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>ignore it.</item>
+<item><label>B</label>always delete it and then recalculate the line of best fit.</item>
+<item><label>C</label>examine it carefully and try to determine what is causing it to be an outlier.</item>
+<item><label>D</label>use it in the calculation of the Sum of Squared Errors.</item></list>
+</problem></exercise><exercise id="element-378"><problem id="idm5983024">
+  <para id="element-30">Consider the following pairs of data (independent variable given first):</para><para id="element-955"><list id="prob7list" list-type="labeled-item" display="inline">
+  <item>(17, 56)</item>
+  <item>(13, 48)</item>
+  <item>(35, 65)</item>
+  <item>(89, 146)</item>
+  <item>(55, 121)</item>
+  <item>(86, 130)</item>
+</list></para><para id="element-292">Find the estimated y for an x-value of 40.</para><list id="element-647" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>-836</item>
+<item><label>B</label>1334</item>
+<item><label>C</label>83</item>
+<item><label>D</label>8.3</item></list>
+</problem></exercise><exercise id="element-141"><problem id="idm3507840">
+  <para id="element-503">A study is done to see if there is a linear relationship between the calendar year and the population of a particular country. The calendar year is the ______________.</para><list id="element-848" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>dependent variable</item>
+<item><label>B</label>Unable to determine</item>
+<item><label>C</label>independent variable</item></list>
+</problem></exercise><exercise id="element-491"><problem id="idp5038528">
+  <para id="element-202">Consider the following pairs of data (independent variable given first): </para><para id="element-692"><list id="prob9list" list-type="labeled-item" display="inline">
+  <item>(16, 56)</item>
+  <item>(10, 98)</item>
+  <item>(35, 105)</item>
+  <item>(4, 70)</item>
+  <item>(12, 121)</item>
+</list>
+
+</para><para id="element-969">The relationship between the two variables is ______________.</para><list id="element-807" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>linear</item>
+<item><label>B</label>not significant</item>
+<item><label>C</label>parabolic</item>
+<item><label>D</label>exponential</item></list>
+</problem></exercise><exercise id="element-445"><problem id="idm2081776">
+  <para id="element-318">Consider the following pairs of data (independent variable given first):</para><para id="element-997"><list id="prob10list" list-type="labeled-item" display="inline">
+  <item>(16, 56)</item>
+  <item>(10, 98)</item>
+  <item>(35, 105)</item>
+  <item>(4, 70)</item>
+  <item>(12, 121)</item>
+</list></para><para id="element-223">The regression line is ______________.</para><list id="element-341" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>steeply sloped downward</item>
+<item><label>B</label>almost horizontal</item>
+<item><label>C</label>steeply sloped upward</item></list>
+</problem></exercise>   
+  </content>
+  
+</document>

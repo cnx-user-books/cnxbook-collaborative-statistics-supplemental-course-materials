@@ -1,0 +1,418 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elementary Statistics: Skills Practice Exam 3- Lessons 7,8, 9, 10</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>69c1dfd5-aa13-4f6e-906e-6cfe3bb9a3d5</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me"><title>Questions 1, 2, and 3 refer to the following:</title>In a study of a sample of 35 Computer Science majors and 40 Business majors, the average number of science fiction books each group read per year was recorded. The Computer Science majors read an average of 11 books with a standard deviation of 4 books. The Business majors read an average of 9 books with a standard deviation of 4.5 books. We are interested in whether the average number of science fiction books read by the Computer Science majors is the same as the number read by the Business majors.
+CS = Computer Science majors B = Business majors</para><exercise id="element-432"><problem id="idm8398944">
+  <para id="element-396">
+    The alternate hypothesis is:
+  </para>
+<list id="list-235262" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>
+mCS = mB
+</item>
+<item><label>b</label>mCS ¹ mB</item>
+<item><label>c</label>
+mCS &lt; mB</item>
+<item><label>d</label>
+mCS &gt; mB</item>
+</list>
+</problem>
+
+  
+<solution id="idm9262544">
+    <para id="sol_1">B</para>
+  </solution>
+</exercise><exercise id="element-367"><problem id="idm5726496">
+  <para id="element-459">
+    The exact distribution for the test is:
+  </para>
+<list id="list-23522523" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Normal</item>
+<item><label>b</label>Student-t with df » 72.9775</item>
+<item><label>c</label>Exponential</item>
+<item><label>d</label>Uniform</item>
+</list>
+</problem>
+
+<solution id="idm7523920">
+  <para id="sol_2">C</para>
+</solution>
+</exercise><exercise id="element-255"><problem id="idm16837840">
+  <para id="element-409">
+The p-value is
+  </para>
+<list id="list-235423598235" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> 0.0452</item>
+<item><label>b</label> 2.0376</item>
+<item><label>c</label> 0.0226</item>
+<item><label>d</label> 0</item>
+</list>
+</problem>
+
+<solution id="idm2324800">
+  <para id="sol_3">A</para>
+</solution>
+</exercise><para id="element-991"><title>Questions 4 and 5 refer to the following:</title>Suppose that a random survey of 10 teenagers found that the average amount of time they spend on the Internet each day is 3.2 hours with a sample standard deviation of 0.78 hours.</para><exercise id="element-587"><problem id="idm2730896">
+  <para id="element-820">
+   The point estimate of the population average amount of time teenagers spend on the Internet each day is
+  </para>
+<list id="list-234523523267778" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> 0.78 hours</item>
+<item><label>b</label> 32 hours</item>
+<item><label>c</label> 3.2 hours</item>
+<item><label>d</label> unknown</item>
+</list>
+</problem>
+
+<solution id="idm16445824">
+<para id="sol_4">C</para>
+</solution>
+</exercise><exercise id="element-700"><problem id="idm16325760">
+  <para id="element-13">
+    An 87% confidence interval for the average amount of time a teenager spends on the Internet each day would be
+  </para>
+<list id="list-235267346345" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>(2.71, 3.68)</item>
+<item><label>b</label> (2.83, 3.57)</item>
+<item><label>c</label>(2.64, 3.76)</item>
+<item><label>d</label>(2.79, 3.61)</item>
+</list>
+</problem>
+
+<solution id="idm2722304">
+  <para id="sol_5">D</para>
+</solution>
+</exercise><exercise id="element-456"><problem id="idp3210160">
+  <para id="element-130">Which of the following is TRUE about a 99% confidence interval for the true average amount of time that teenagers spend on the Internet each day?</para><list id="element-584" list-type="labeled-item" mark-suffix=".">
+<item><label>I</label>We are 99% confident that the true average time that teenagers spend on the Internet per day lies within the confidence interval.</item>
+<item><label>II</label>The confidence interval contains 99% of the data values collected.</item>
+<item><label>III</label>99% of all the confidence intervals constructed this way contain the true average amount of time teenagers spend on the Internet each day.</item></list><list id="element-874" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>I, II, and III</item>
+<item><label>b</label>I and II</item>
+<item><label>c</label>I and III</item>
+<item><label>d</label>I only</item></list>
+</problem>
+
+<solution id="idm1600304">
+  <para id="element-51">C</para>
+</solution>
+</exercise><para id="element-211"><title> Questions 7 and 8 refer to the following:</title>Suppose a random survey of 600 registered voters revealed that only 39% actually voted in the last primary election. We are interested in the population proportion of registered voters who actually voted in the last primary election.</para><exercise id="element-279"><problem id="idm1638128">
+  <para id="element-472">
+   The margin of error (error bound) for a 92% confidence interval for the true proportion of registered voters who actually voted in the last primary election is
+  </para><list id="id-" list-type="labeled-item" mark-suffix=".">
+
+<item><label>a</label>0.0176</item>
+<item><label>b</label>0.3900</item>
+<item><label>c</label>0.3551</item>
+<item><label>d</label>0.0349</item>
+</list>
+
+</problem>
+
+<solution id="idp61808">
+  <para id="element-901">D</para>
+</solution>
+</exercise><exercise id="element-800"><problem id="idm5821840">
+  <para id="element-762">
+    Suppose you want to redo the survey of registered voters to see how many voted in the last election but this time you survey 1000 registered voters and find 340 voted in the last election. If the confidence level is maintained at 92% what happens to the confidence interval.
+  </para><list id="id-sff2" list-type="labeled-item" mark-suffix=".">
+
+<item><label>a</label>The confidence interval gets wider.</item>
+<item><label>b</label>The confidence interval gets narrower.</item>
+<item><label>c</label>The confidence interval stays the same.</item>
+<item><label>d</label>The confidence interval cannot be calculated.</item>
+
+</list>
+</problem>
+
+<solution id="idp4011328">
+  <para id="element-726">B
+  </para>
+</solution>
+</exercise><exercise id="element-580"><problem id="idm595136">
+  <para id="element-877">A study of a certain brand of AA batteries yielded a sample mean lifetime of 450 minutes with a sample standard deviation of 92 minutes. A hypothesis test was performed using the following hypotheses:</para><para id="element-165"><m:math>
+<m:msub>
+<m:mi>H</m:mi>
+<m:mn>o</m:mn>
+</m:msub>
+</m:math>
+: m = 480</para><para id="element-675"><m:math>
+<m:msub>
+<m:mi>H</m:mi>
+<m:mn>a</m:mn>
+</m:msub>
+</m:math>
+: m &lt; 480</para><para id="element-689">The type I error for this hypothesis test is:</para><list id="element-379" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>to conclude that the average battery lifetime is less than 480 minutes when, in reality, it is equal to 480 minutes</item>
+<item><label>b</label>to conclude that the average battery lifetime is equal to 480 minutes when, in reality, it actually is equal to 480 minutes</item>
+<item><label>c</label>to conclude that the average battery lifetime is equal to 480 minutes when, in reality, it is less than 480 minutes</item>
+<item><label>d</label>to conclude that the average battery lifetime is greater than 480 minutes when, in reality, it is equal to 480 minutes</item></list>
+</problem>
+
+<solution id="idm8021984">
+  <para id="element-928">A
+  </para>
+</solution>
+</exercise><exercise id="element-426"><problem id="idm3149008">
+  <para id="element-758">The null hypothesis is “the percentage of men who score 45 points or more (out of 50 points) on a statistics test at De Anza College is the same as the percentage of women who score 45 points or more.” The alternate hypothesis is “the percentage of men who score 45 points or more (out of a 50 point test) on a statistics test at De Anza College is more than the percentage of women who score 45 points or more.”</para><para id="element-334">The appropriate hypothesis test to perform and distribution to use is</para><list id="element-509" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>a test of two population proportions, independent groups; Student-t distribution</item>
+<item><label>b</label>a test of a single population proportion; Normal distribution</item>
+<item><label>c</label>a test of two population means, independent groups; Normal distribution</item>
+<item><label>d</label>a test of two population proportions, independent groups; Normal distribution</item></list>
+</problem>
+
+<solution id="idm17480544">
+  <para id="element-723">D</para>
+</solution>
+</exercise><para id="element-570"><emphasis>Questions 11 through 13 refer to the following:</emphasis>
+In a study of vehicle safety, 15 minivans were crash tested and the repair costs for each of the 15 minivans were recorded. For these 15 minivans, the average repair cost was $1786 and the standard deviation was $937 (based on data from the Highway Loss Data Institute.) Suppose that you want to test the hypothesis that the average repair cost is under $2000. Assume that the underlying population of repair costs follows a normal distribution.</para><exercise id="element-181"><problem id="idm8006960">
+  <para id="element-577">The correct null hypothesis for this test is</para><list id="element-772" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>m 
+<m:math>
+<m:msup>
+<m:mi> </m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+</m:math>
+1786
+</item>
+<item><label>b</label>m £ 2000</item>
+<item><label>c</label>m 
+<m:math>
+<m:msup>
+<m:mi> </m:mi>
+<m:mn>3</m:mn>
+</m:msup>
+</m:math>
+2000</item>
+<item><label>d</label>m &lt; 2000</item></list>
+</problem>
+
+<solution id="idm4504880">
+  <para id="element-3">C</para>
+</solution>
+</exercise><exercise id="element-609"><problem id="idm657776">
+  <para id="element-411">At a 5% level of significance (a), the correct decision for this hypothesis test is</para><list id="element-784" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>reject <m:math>
+<m:msub>
+<m:mi>H</m:mi>
+<m:mn>o</m:mn>
+</m:msub>
+</m:math> because a is more than the p-value.</item>
+<item><label>b</label>reject <m:math>
+<m:msub>
+<m:mi>H</m:mi>
+<m:mn>o</m:mn>
+</m:msub>
+</m:math> because a is less than the p-value.</item>
+<item><label>c</label>do not reject <m:math>
+<m:msub>
+<m:mi>H</m:mi>
+<m:mn>o</m:mn>
+</m:msub>
+</m:math> because a is more than the p-value.</item>
+<item><label>d</label>do not reject <m:math>
+<m:msub>
+<m:mi>H</m:mi>
+<m:mn>o</m:mn>
+</m:msub>
+</m:math> because a is less than the p-value.</item></list>
+</problem>
+
+<solution id="idp3241856">
+  <para id="element-280">D</para>
+</solution>
+</exercise><exercise id="element-658"><problem id="idp3467632">
+  <para id="element-514">The appropriate distribution for this test is</para><list id="element-360" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Normal with standard deviation $937</item>
+<item><label>b</label>t with degrees of freedom = 15</item>
+<item><label>c</label>t with degrees of freedom = 14</item>
+<item><label>d</label>Normal with standard deviation $241.93 </item></list>
+</problem>
+
+<solution id="idm1587248">
+  <para id="element-480">C</para>
+</solution>
+</exercise><para id="element-862"><emphasis>For problems 14 and 15:</emphasis>
+Buses on a particular route stop in front of De Anza College every 20 minutes between 3:00 p.m. and 1:00 a.m. The waiting times are equally likely. We asked the 33 people waiting at 6:45 p.m. how long they had been waiting, and then calculated the average wait time for those people.</para><exercise id="element-385"><problem id="idm3423904">
+  <para id="element-770">The distribution of the average wait times is:</para><list id="element-951" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>N( 10 , 1. 0050 )</item>
+<item><label>b</label>U( 0 , 20 )</item>
+<item><label>c</label>N( 10 , 5.7735)</item>
+<item><label>d</label>Exp ( 1 20 )</item></list>
+</problem>
+
+<solution id="idm1637120">
+  <para id="element-88">A</para>
+</solution>
+</exercise><exercise id="element-528"><problem id="idm2865696">
+  <para id="element-690">
+    The probability that the average wait time is no more than 15 minutes is
+<list id="list-98326498698234" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> 1</item> 	<item><label>b</label> 0. 7500</item> 	<item><label>c</label> 0. 7769</item> 	<item><label>d</label> 0</item></list>
+  </para>
+</problem>
+
+<solution id="idm3572256">
+  <para id="element-888">
+A
+  </para>
+</solution>
+</exercise><exercise id="element-416"><problem id="idm1602064">
+  <para id="element-720">
+   Which probability statement best describes the graph? The horizontal axis has the label Xbar.
+<list id="list-908798372354" list-type="labeled-item" mark-suffix="."> 
+<item><label>a</label> P( Xbar &gt; 6 )</item> 	<item><label>b</label> P( Xbar &lt; 3 )</item> 	<item><label>c</label> P( Xbar &gt; 6 or X &lt; 3 )</item> 	<item><label>d</label> P( 3 &lt; Xbar &lt; 6 )</item></list>
+  </para>
+</problem>
+
+<solution id="idm4765808">
+  <para id="element-155">
+    D
+  </para>
+</solution>
+</exercise><para id="element-968"><emphasis>Questions 17 and 18 refer to the following:</emphasis>
+
+A radio news story claimed that half of all U.S. adults have Internet access. In a national poll about Internet usage (The Pew Internet Project), 12,638 U.S. adults were surveyed and it was found that 6413 of those surveyed had Internet access. At a 5% level of significance, perform a hypothesis test to test the claim made by the radio news story.</para><exercise id="element-717"><problem id="idp1529072">
+  <para id="element-357">
+    The hypothesis test is:
+<list id="list-983792846253" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> right - tailed</item>
+<item><label>b</label> left - tailed</item>
+<item><label>c</label> two – tailed</item>
+<item><label>d</label> no-tailed</item></list>
+  </para>
+</problem>
+
+<solution id="idm5466544">
+  <para id="element-505">
+C
+  </para>
+</solution>
+</exercise><exercise id="element-506"><problem id="idm2590048">
+  <para id="element-956">
+The correct conclusion is:
+<list id="list-98329847986000293704" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> The percentage of U.S. adults that have Internet access is not one-half.</item>
+<item><label>b</label> more than half of all U.S. adults have Internet access.</item>
+<item><label>c</label> half of all U.S. adults have Internet access.</item>
+<item><label>d</label> less than half of all U.S. adults have Internet access.</item> </list>
+  </para>
+</problem>
+
+<solution id="idm5224816">
+  <para id="element-516">
+    C
+  </para>
+</solution>
+</exercise><para id="element-154"><emphasis>Questions 19 - 21 refer to the following:</emphasis>
+
+An organic fertilizer and a conventional chemical fertilizer are tested to determine if the organic fertilizer produces more blossoms per stalk. 43 pairs of seed (the pair of seeds come from the same parent plant) are treated. One seed is treated with the organic fertilizer and the other seed is treated with the conventional chemical fertilizer. After a growing season of identical watering and sunlight, the number of blossoms on each stalk in a matched pair is recorded. For each pair, the difference in the number of blossoms per stalk (organic fertilizer plant blossoms – conventional chemical fertilizer plant blossoms) is computed.
+_
+The statistics are: xd = 2.2 sd = 5.3 n = 43</para><exercise id="element-808"><problem id="idm145696">
+  <para id="element-752">
+    What type of hypothesis test is conducted?
+<list id="list-98237948298360120932" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> Test of a single population mean</item>
+<item><label>b</label> Test of two population proportions, independent groups</item>
+<item><label>c</label> Matched or Paired Samples</item>
+<item><label>d</label> Test of two population means, independent groups</item></list>
+  </para>
+</problem>
+
+<solution id="idm144992">
+  <para id="element-266">
+C
+  </para>
+</solution>
+</exercise><exercise id="element-43"><problem id="idp2382752">
+  <para id="element-418">
+   Select the appropriate alternate hypothesis.
+<list id="list-239842908379587982374" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> µd £ 0</item> 	<item><label>b</label> µd &gt; 0</item> 	<item><label>c</label> µd &gt; 2.2</item> 	<item><label>d</label>µd £ 2.2</item></list>
+  </para>
+</problem>
+
+<solution id="idp2550000">
+  <para id="element-669">
+B
+  </para>
+</solution>
+</exercise><exercise id="element-529"><problem id="idp3487456">
+  <para id="element-738">
+   What is the correct conclusion?
+<list id="list-983274986235" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> The organic fertilizer does result in more blossoms per stalk</item>
+<item><label>b</label> The organic fertilizer does not result in more blossoms per stalk.</item>
+<item><label>c</label> The organic fertilizer results in the same number of blossoms per stalk</item>
+<item><label>d</label> The conventional chemical fertilizer does result in more blossoms per stalk</item></list>
+  </para>
+</problem>
+
+<solution id="idm1313552">
+  <para id="element-802">
+A
+  </para>
+</solution>
+</exercise><para id="element-175"><emphasis>Problems 22 – 24 refer to the following:</emphasis>
+
+Based on data from the 2000 Census the average age of a Baldwin County, Alabama resident is 39 years with a standard deviation of 22. 6 . The data is normally distributed.</para><exercise id="element-107"><problem id="idp3245664">
+  <para id="element-347">
+    The median age, in years, is: 
+<list id="list-982369486928634" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> 39</item> 	<item><label>b</label> 22.6</item> 	<item><label>c</label> 19.5</item> 	<item><label>d.</label> There is not enough information.</item></list>
+  </para>
+</problem>
+
+<solution id="idm57984">
+  <para id="element-54">
+A
+  </para>
+</solution>
+</exercise><exercise id="element-223"><problem id="idm1617248">
+  <para id="element-678">
+   If 100 residents are surveyed, the IQR for the average age is:
+<list id="list-982394826983645" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> 0. 30</item> 	<item><label>b</label> 30.5</item> 	<item><label>c</label> 3.04</item> 	<item><label>d.</label>There is not enough information.</item></list>
+  </para>
+</problem>
+
+<solution id="idp2378288">
+  <para id="element-462">
+C
+  </para>
+</solution>
+</exercise><para id="element-425"><emphasis>Questions 24 – 25 refer to the following:</emphasis>
+
+Students doing a statistics project at Central City College found that the amount of time a teenager spends cleaning his/her room each week is exponentially distributed with a mean of 20 minutes. </para><exercise id="element-298"><problem id="idp3177776">
+  <para id="element-303">
+    What is the probability that 50 randomly selected teenagers spend, on average, between 15 and 30 minutes cleaning their rooms each week?
+<list id="list-98239486532" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> 0.7500</item> 	<item><label>b</label> 0.2902</item> 	<item><label>c</label> 0.2492</item> 	<item><label>d</label>0.9612</item></list>
+  </para>
+</problem>
+
+<solution id="idp4764240">
+  <para id="element-778">
+D
+  </para>
+</solution>
+</exercise><exercise id="element-351"><problem id="idp3378160">
+  <para id="element-952">
+   Find the 70th percentile for the average amount of time 50 teenagers spend cleaning their rooms each week.
+<list id="list-000000009320490293042" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label> 70</item> 	<item><label>b</label> 21.5</item> 	<item><label>c</label> 30.5</item> 	<item><label>d</label>7.1</item></list>
+  </para>
+</problem>
+
+<solution id="idp3740768">
+  <para id="element-616">
+B
+  </para>
+</solution>
+</exercise>   
+  </content>
+  
+</document>

@@ -1,0 +1,183 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elementary Statistics: Calculator Instructions and Resources</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>7f9655b8-c2a3-466d-bbce-0884eb6b8ba8</md:uuid>
+</metadata>
+  <content>
+
+<section id="element-23523467888889"><title>Graphing Calculator Instructions</title>
+<para id="element-417"><media id="idp6293440" alt="TI-83 Calculator"><image src="../../media/TI83.jpg" mime-type="image/jpeg" height="200" width="100"/></media>
+	</para><list id="element-826" list-type="bulleted"><item>TI-83 video tutorials are available here: (<link document="m17574">Part 1</link>, <link document="m17575">Part 2</link>).</item>
+<item>The Discrete Mean &amp; Stdev link shows how to calculate a mean and <m:math><m:mtext>stdev</m:mtext></m:math> for a discrete random variable.</item>
+<item>The Outliers link shows how to calculate outliers using the lists.</item>
+<item>The Matrix: TI-89 link shows how to create a matrix using the TI-89 calculator for use in a <term>Test of Independence</term>.</item>
+<item>The Random Numbers link shows how to generate random numbers.</item>
+<item>The Sorting link shows how to sort a list.</item>
+<item>The TI-89 link gives some general instructions for the TI-89 plus linear regression instructions.</item>
+<item>Link to <link url="http://www.prenhall.com/esm/app/calc_v2">Graphing Calculator Help</link> for Several TI Calculators</item></list></section>
+
+    <section id="element-23423523"><title>Calculating the Mean and Standard Deviation of a Discrete Probability Distribution on the TI-83 and TI-86</title>
+<list id="element-67" list-type="enumerated"><item>Enter the possible values for your random variable <m:math><m:mi>X</m:mi></m:math> in list <code>L1</code>.</item>
+<item>Enter the probabilities for each value of <m:math><m:mi>X</m:mi></m:math> in list <code>L2</code> in the position next to the value of <m:math><m:mi>X</m:mi></m:math>.</item>
+<item>Calculate “One Variable Statistics” for lists <code>L1</code> and <code>L2</code>.</item>
+<item>(Do this the same way you calculate one variable statistics for data values and frequencies when given a set of data.)</item>
+<item>The calculator will give the mean as "x-bar" <m:math><m:mi>x̄</m:mi></m:math> although we know that this mean is actually <m:math><m:mi>µ</m:mi></m:math> because it is the mean of a probability distribution.</item>
+<item>The calculator will give the standard deviation as <m:math><m:mi>σ</m:mi></m:math> which indicates the standard deviation of a probability distribution (as well as the standard deviation of a population).</item>
+<item>The calculator does not give you a value for s because the frequencies you gave it are not whole numbers.</item></list> </section>
+
+<section id="element-45234523452"><title>Outlier Instructions for the TI-83, 86, and 89 Calculators</title>
+<para id="delete_me333">When you finish going over these instructions, do TEXT problem #5 ("stories" and "height of building") in Ch. 12. One of the points is an outlier.</para><para id="element-946">This explains how to find outliers on various calculators. Suppose the data is (3,5), (6,8), (9,7), (5,20). The <code>xlist</code> is 3, 6, 9, 5 and the <code>ylist</code> is 5, 8, 7, 20. Put the <code>xlist</code> into <code>L1</code> and the <code>ylist</code> into <code>L2</code>. Do the linear regression. <code>yhat = 11.2267 - .2133x</code></para><note id="idp4908176">TI-89: Use Flashapps to enter your lists and then find your instructions below the instructions for the TI-83 &amp; 86.</note><section id="element-609"><title>For TI-83 &amp; 86 Calculators</title>
+<list id="element-263" list-type="enumerated"><item>Go back to where you entered the lists <code>L1</code> and <code>L2</code> and go to the list name <code>L3</code>. Enter <code>11.2267-.2133L1</code> (You enter the equation at the bottom of the screen where it says <code>L3</code>. Press <code>Enter</code>. In <code>L3</code> are the <code>yhat</code> values.</item>
+<item>Arrow to the list name <code>L4</code>. Enter <code>L2-L3</code>. Press <code>Enter</code>. (In <code>L4</code> are the <code>y - yhat</code> values.)</item>
+<item>Arrow to the list name <code>L5</code>. Enter <code>L4^2</code>. Press <code>Enter</code>. (In <code>L5</code> are the <code>(y - yhat)^2</code> values.)</item>
+<item>Continue by finding the Instructions for the appropriate calculator below (83 or 86):</item></list></section><section id="element-973"><title>For TI-83</title>
+<list id="element-884" list-type="enumerated"><item>Exit to the Home Screen. Clear it. Press <code>2nd LIST</code>. Arrow to <code>MATH</code>. Press <code>5:sum</code>. (Press <code>L5</code>). Press <code>Enter</code>. You should see 137.1467 (to 4 decimal places). This is the SSE.</item>
+<item>Calculate <m:math><m:mi>s</m:mi></m:math>. Press the square root symbol and enter <code>(137.1467/2)</code>. (You get the denominator by taking the number of data points and subtracting 2: <m:math><m:mtext>4 - 2 = 2</m:mtext></m:math>.) Press <code>Enter</code>. You should see 8.2809 (to 4 decimal places).</item>
+<item>Multiply 8.2809 by 1.9. You should see 15.7337.</item>
+<item>Press <code>L4</code>. Press <code>Enter</code>. (Use the arrow keys to scroll through the list.)</item>
+<item>Compare 15.7337 to the absolute values of the numbers in <code>L4</code>. If any absolute value is greater than or equal to 15.7337, then the corresponding point is an outlier.</item>
+<item>Absolute values of the numbers in <code>L4</code> are 5.587, 1.947, 2.307, 9.8398. None of them are greater than 15.7337, so no point is an outlier.</item></list></section><section id="element-858"><title>For TI-86</title>
+<list id="element-385" list-type="enumerated"><item>Exit to the Home Screen. Clear it. Press <code>2nd LIST</code>. Press <code>F5 (OPS)</code>. Press <code>MORE</code>. Press <code>F1 (sum)</code>. Press <code>2nd F3 (NAMES)</code>. Find the <code>F key</code> with <code>L5</code> and press it. Press <code>Enter</code>. You should see 137.1467 (to 4 decimal places). This is the SSE.</item>
+<item>Calculate <m:math><m:mi>s</m:mi></m:math>. Press the square root symbol and enter <code>(137.1467/2)</code>. (You get the denominator by taking the number of data points and subtracting 2: <m:math><m:mtext>4 - 2 = 2</m:mtext></m:math>.) Press <code>Enter</code>. You should see 8.2809 (to 4 decimal places).</item>
+<item>Multiply 8.2809 by 1.9. You should see 15.7337.</item>
+<item>Press <code>L4</code>. Press <code>Enter</code>. (Use the arrow keys to scroll through <code>L4</code>.)</item>
+<item>Compare 15.7337 to the absolute values of the numbers in <code>L4</code>. If any absolute value is greater than or equal to 15.7337, then the corresponding point is an outlier.</item>
+<item>Absolute values of the numbers in <code>L4</code> are 5.587, 1.947, 2.307, 9.8398. None of them are greater than 15.7337 so no point is an outlier.</item></list></section><section id="element-217"><title>For TI-89</title>
+<list id="element-265" list-type="enumerated"><item><emphasis>NOTE:</emphasis> When you do Linear Regression, a list called "<code>resid</code>" is created automatically.
+This list has the <code>y - yhat</code> values in it.</item>
+<item>Go into <code>Flashapps</code> and into your lists. Arrow to "<code>resid</code>" so you see it. Then arrow to the list name <code>L3</code>. Press <code>F3</code>. Press <code>1:names</code>. Arrow down to <code>STATVARS</code>. If it is not checked, press <code>F4</code>. Then arrow down to <code>resid</code>. Press <code>Enter</code>. Press <code>^2</code>. <code>L3</code> will have the <code>(y - yhat)^2</code> values. Press <code>HOME</code> and Press <code>F1 8</code> to clear it. Press <code>2nd MATH</code>. Press <code>3:List</code>. Press <code>6:Sum</code>. Press <code>alpha L3</code>. Depending on how you have <code>MODE Display Digits</code> set, you should see approximately 137.1467. This is the SSE.</item>
+<item>Calculate <m:math><m:mi>s</m:mi></m:math>. (You should be <code>HOME</code>.) Press <code>clear</code>. Press the square root symbol and enter <code>137.1467/2</code>). (You get the denominator by taking the number of data points and subtracting 2: <m:math><m:mtext>4 - 2 = 2</m:mtext></m:math>.) Press <code>Enter</code>.
+You should see 8.2809 (to 4 decimal places).</item>
+<item>Press the times key and enter <code>1.9</code>. Press <code>Enter</code>. You should see 15.7337</item>
+<item>Press <code>clear</code>. Press <code>2nd VAR-LINK</code>. Arrow down to <code>resid</code> (It is below <code>STAT VARS</code>). Press <code>Enter</code>. Arrow up to the list. Scroll through the list using the arrow keys.</item>
+<item>Compare 15.7337 to the absolute values of the numbers in the list. If any absolute value is greater than or equal to 15.7337, then the corresponding point is an outlier.</item>
+<item>Absolute values of the numbers in the list are approximately 5.59, 1.95, 2.31, 9.84. None of them are greater than 15.7337 so no point is an outlier.</item></list></section>   </section>   
+<section id="element-3452516275427"><title>Create a Matrix to use in a Test of Independence on the TI-89</title>
+  <list id="element-964" list-type="enumerated"><item>Press <code>APPS 6:Data/Matrix Editor</code></item>
+<item>Press <code>3:New</code></item>
+<item>Arrow over and down to <code>2:Matrix</code>.</item>
+<item>Press <code>Enter</code></item>
+<item>Arrow down to <code>Folder</code>. Either use the one that is there or arrow over and down to another folder name (don't use <code>statvars</code>) and press <code>Enter</code>.</item>
+<item>Arrow down to <code>Variable</code> and enter a name you will remember.</item>
+<item>Arrow down to <code>Row dimension</code> and enter the number of rows you want.</item>
+<item>Arrow down to <code>Column dimension</code> and enter the number of columns you want.
+(<emphasis>NOTE:</emphasis> You can change these numbers if you want for a different problem.)</item>
+<item>Press <code>Enter</code> until you see your matrix with zeroes as the entries. Fill in your matrix with the data from the table.</item>
+<item>Press <code>APPS</code></item>
+<item>Press <code>1:Flashapps</code></item>
+<item>Press <code>Enter</code></item>
+<item>Press <code>F6 TESTS</code></item>
+<item>Press <code>8:Chi2 2-way</code></item>
+<item>Enter the name of your matrix at <code>Observed Mat:</code></item>
+<item>Press <code>Enter</code>.</item>
+<item>You should see the screen with the test statistic and the <m:math><m:mtext>p-value</m:mtext></m:math>.</item></list><list id="element-294" list-type="bulleted"><item>To change the size of your matrix, press <code>APPS 6:Matrix/Data Editor 2:Open</code>.</item>
+<item>Then fill in the <code>OPEN</code> screen with <code>Matrix</code>, the correct folder, and the correct name of your matrix.</item>
+<item>Press <code>Enter</code> until you see your matrix. </item>
+<item>To resize it, press <code>F6 Util 6:Resize Matrix</code>. Enter the row dimension and arrow down to column dimension and enter that number. Press <code>Enter</code> until you see your resized matrix.</item></list> </section>
+
+<section id="element-3454262734890"><title>Generating Random Numbers with the TI Calculators</title>
+ <para id="delete_me4444">The following functions will generate random numbers from the list of numbers 1 - 60.</para><section id="element-95"><title>TI-83</title>
+<list id="element-297" list-type="enumerated"><item>Press <code>MATH</code>. Arrow over to <code>PRB</code>.</item>
+<item>Press <code>5:randInt</code>. Enter <code>(1,60)</code>.</item>
+<item>Press <code>Enter</code> and you will see the first random number.</item>
+<item>Keep pressing <code>Enter</code> to get random numbers between 1 and 60, inclusive. </item></list></section><section id="element-912"><title>TI-86</title>
+<list id="element-330" list-type="enumerated"><item>Press <code>2nd MATH</code>.</item>
+<item>Press <code>PROB</code> (in <code>F2</code>).</item>
+<item>Press <code>randint</code> (in <code>F5</code>). Enter <code>(1,60)</code>.</item>
+<item>Press <code>Enter</code> and you will see the first random number.</item>
+<item>Press <code>Enter</code> and you will see the first random number.</item></list></section><section id="element-279"><title>TI-89</title>
+<list id="element-860" list-type="bulleted"><item>Press <code>2nd MATH</code>.</item>
+<item>Press <code>7:Probability</code>.</item>
+<item>Press <code>4:rand</code>. Enter <code>(1,60)</code>and press <code>Enter</code>.</item>
+<item>You will see the first random number.</item>
+<item>Keep pressing <code>Enter</code> to get random numbers between 1 and 60, inclusive.
+</item></list></section> </section>
+<section id="element-234543264536"><title>How to Sort Data Using the TI Calculators</title> <para id="delete_me5555">Only sort data where the frequencies are all 1.</para><section id="element-132"><title>TI-83</title>
+<list id="element-152" list-type="enumerated"><item>Enter the data into a list <code>L1</code>, <code>L2</code>, <code>L3</code>, <code>L4</code>, <code>L5</code>, or <code>L6</code>.</item>
+<item>Press <code>2nd LIST</code> (above the <code>STAT</code> key).</item>
+<item>Arrow over (use the right arrow) to <code>OPS</code>.</item>
+<item>Press <code>1</code> (for <code>1:SORTA</code>).</item>
+<item>Enter the name of your list and a right parenthesis. Press <code>Enter</code>.</item>
+<item>Press <code>STAT 1</code> and look at your list. It should be in sorted order.</item></list></section><section id="element-298"><title>TI-86</title>
+<list id="element-60123423525" list-type="enumerated"><item>Enter the data into a list.</item>
+<item>Press <code>EXIT</code>.</item>
+<item>Press <code>2nd LIST</code> (above – key).</item>
+<item>Press <code>OPS</code> (in <code>F5</code>). Press <code>sortA</code> (in <code>F2</code>).</item>
+<item>Enter the list name by pressing <code>2nd NAMES</code> (in <code>M3</code>).</item>
+<item>Arrow to your list and press the appropriate <code>F</code> key.</item>
+<item>Press the <code>STO-&gt;</code> key. </item>
+<item>Enter the same list name. Press <code>Enter</code>.</item>
+<item>Check that your list is sorted by going back into <code>2nd STAT EDIT</code>.</item></list></section><section id="element-179"><title>TI-89</title><note id="idp7241872">For the TI-89, get Flashapps from the TI Web site or have your instructor put it into your calculator.</note>
+
+<list id="element-379" list-type="enumerated"><item>Press <code>APPS 1</code> (for <code>1:Flashapps</code>). Press <code>Enter</code>.</item>
+<item>Press <code>Enter</code> again. Enter your data into a list (Enter data into one of the L lists, <code>L1</code>, <code>L2</code>, <code>L3</code>, <code>L4</code>).</item>
+<item>Press <code>F3</code> (for <code>List</code>). Press <code>2</code> (for <code>2:Ops</code>).</item>
+<item>Press <code>1</code> (for <code>1:Sort List</code>). If you see your list name, press <code>Enter</code>. If the correct list name is not there, then enter it. Press <code>Enter</code>.</item>
+<item>You should see your list in sorted order.</item></list></section>  </section>
+<section id="element-425246277778"><title>Notes for the TI-89 Calculator</title>
+<para id="delete_me6666">In most TI-89 calculators, you must load a new operating system first and then the APPS statistics program. You can either go to your instructor OR you can go to the TI-89 site to get the operating system and the APPS statistics program. You must go to the TI-89 site to get the Guidebook. It has all the instructions for running the statistics program.</para><para id="element-346">To go to the TI-89 site, click <link url="http://education.ti.com/">http://education.ti.com</link> to get to the TI-89 link. Then choose "apps" and "Handheld Software Application." From this page, you can download the operating system (version 2.05) and statistics program (Statistics with List Editor - this page will have both the operating system and the program).</para><para id="element-494">You must then load the Advanced Mathematics Software Operating System and the Statistics with List Editor from your computer to the TI-89 calculator (unless your instructor has loaded them directly into your calculator). For that, you will need the TI-GRAPH LINK™ software and the TI-GRAPH LINK™ Cable. TI sells them on their Web Site.</para><section id="element-601"><title>Getting Started</title>
+<para id="element-265342352">Create the folder “<code>mystat</code>” (for statistics):
+<list id="element-927" list-type="enumerated"><item>Press <code>2nd VAR-LINK</code>. Press <code>F1 Manage</code>.</item>
+<item>Press <code>5:Create Folder</code>. Enter the name “<code>mystat</code>” and press <code>Enter</code> twice.</item>
+</list></para><para id="element-463">Make <code>mystat</code> your current folder:<list id="element-800" list-type="enumerated"><item>Press <code>MODE</code>. Arrow down to <code>Current Folder</code> and arrow over and down to <code>mystat</code>.</item>
+<item>Press <code>Enter</code> twice. You should see the name <code>MYSTAT</code> in the lower left corner.</item>
+</list></para><para id="element-460">Creating list names <code>L1</code>, <code>L2</code>, and <code>L3</code>:<list id="element-751" list-type="enumerated"><item>Press <code>APPS 1:Flashapps</code>. Press <code>Enter</code>.</item>
+<item>Arrow up into the name area of the lists and over until you reach a blank title area.</item>
+<item>Press <code>L</code> (above the <code>4</code>). Press <code>alpha</code>. Press <code>1</code>. Press <code>Enter</code>.</item>
+<item>Arrow up into the name area of the lists and over until you reach a blank title area.</item>
+<item>Press <code>L</code>. Press <code>alpha</code>. Press <code>2</code>. Press <code>Enter</code>.</item>
+<item>Arrow up into the name area of the lists and over until you reach a blank title area.</item>
+<item>Press <code>L</code>. Press <code>alpha</code>. Press <code>3</code>. Press <code>Enter</code>.</item></list></para></section><section id="element-852"><title>Linear Regression</title>
+<para id="element-613">
+Given the data set: (3, 5), (6, 8), (9,7), (5, 20). The <code>xlist</code> is 3, 6, 9, 5 and the <code>ylist</code> is 5, 8, 7, 20.
+Put the <code>xlist</code> into <code>L1</code> and the <code>ylist</code> into <code>L2</code>.
+</para></section><section id="element-26235233"><title>Constructing a Scatter Plot</title>
+<list id="element-21" list-type="enumerated"><item>Make sure you are using Flashapps (Press <code>APPS 1:Flashapps</code>. Press <code>Enter</code>.)</item>
+<item><emphasis>SCATTERPLOT:</emphasis> After you are have entered your lists in <code>L1</code> and <code>L2</code>, press <code>F2</code>.</item>
+<item>Press <code>1:Plot Setup</code>. Highlight <code>Plot 1</code> and make sure there are no checks next to any other plots. If there are, arrow to the plot and press <code>F4</code>.</item>
+<item>Then arrow back to <code>Plot 1</code>.</item>
+<item>Press <code>F1: Define</code>. For <code>Plot Type</code>, press the right arrow and press <code>1:Scatter</code>.</item>
+<item>Arrow down, press the right arrow and press <code>1:Box</code>.</item>
+<item>Arrow down to <code>x</code>. Press <code>alpha L1</code>. Arrow down to <code>y</code> and press <code>alpha L2</code>.</item>
+<item>Arrow down to <code>Use Freq and Categories?</code> and use the right arrow. Highlight <code>NO</code> and press <code>Enter</code>.</item>
+<item>Press <code>Enter</code> again.</item>
+<item>Press <code>F5 Zoomdata</code>. You should see the scatterplot. Press <code>F3</code> to trace and the arrow keys to see the coordinates of the points.</item></list></section><section id="element-74"><title>Calculating the Regression Equation</title>
+<list id="element-811" list-type="enumerated"><item>Press <code>APPS</code>, <code>1:Flashapps</code>, and <code>Enter</code>.</item>
+<item>Press <code>F4:Calc</code>.</item>
+<item>Press <code>3:Regressions</code>.</item>
+<item>Press <code>1:LinReg (ax+b)</code>. For <code>x List</code>, enter <code>alpha L1</code>. Arrow down. For <code>y List</code>, enter <code>alpha L2</code>.</item>
+<item>For <code>Store RegEqn to:</code>, arrow right and arrow down to <code>y1(x)</code> (or any one of the y's) and press <code>Enter</code>.</item>
+<item>Press <code>Enter</code>. You should see a screen with <code>a</code>, <code>b</code>, <code>r^2</code>, and <code>r</code> on it. The regression is complete.</item>
+<item>Write down the equation from the information and press <code>Enter</code>.</item>
+<item>The linear regression is <code>yhat = 11.2267 - .2133x</code></item></list></section><section id="element-170"><title>Drawing the Regression Line</title>
+<list id="element-527" list-type="enumerated"><item>Press the key with the green diamond on it (it is below the <code>2nd</code> key) and press <code>Y=</code> (above the <code>F1</code> key).</item>
+<item>This is the <term>Line of Best Fit</term>.</item>
+<item>Press the key with the green diamond on it and press <code>GRAPH</code> (above the <code>F3</code> key). The line will be drawn.</item></list></section><section id="element-362"><title>Outliers</title>
+<list id="element-485" list-type="enumerated"><item>When you do Linear Regression, a list called "<code>resid</code>" is created automatically.</item>
+<item>This list has the “<code>y – yhat</code>” values in it.</item>
+<item>Go into <code>Flashapps</code> and into your lists.</item>
+<item>Arrow to "<code>resid</code>" so you see it.</item>
+<item>Then, arrow to the list name <code>L3</code>. Press <code>F3</code>.</item>
+<item>Press <code>1:names</code>. Arrow down to <code>STATVARS</code>. If it is not checked, press <code>F4</code>.</item>
+<item>Then, arrow down to <code>resid</code>. Press <code>Enter</code>. Press <code>^2</code>. Press <code>Enter</code>. <code>L3</code> will have the <code>(y - yhat)^2</code> values.</item>
+<item>Press <code>HOME</code> and Press <code>F1 8</code> to clear it.</item>
+<item>Press <code>2nd MATH</code>. Press <code>3:List</code>. Press <code>6:Sum</code>. Press <code>alpha (L3)</code>.</item>
+<item>Depending on how you have <code>MODE Display Digits</code> set, you should see approximately 137.1467. This is the SSE.</item>
+<item>Calculate <m:math><m:mi>s</m:mi></m:math>. (You should be <code>HOME</code>.) Press <code>clear</code>.</item>
+<item>Press the square root symbol and enter <code>137.1467/2</code>. (You get the denominator by taking the number of data points and subtracting 2: <m:math><m:mtext>4 - 2 = 2</m:mtext></m:math>.)</item>
+<item>Press <code>Enter</code>. You should see 8.2809 (to 4 decimal places).</item>
+<item>Press the times key and enter <code>1.9</code>. Press <code>Enter</code>. You should see <code>15.7337</code>.</item>
+<item>Press <code>clear</code>. Press <code>2nd VAR-LINK</code>.</item>
+<item>Arrow down to <code>resid</code> (it is below <code>STAT VARS</code>). Press <code>Enter</code>. Press <code>Enter</code> again.</item>
+<item>Arrow up to the list. Scroll through the list using the arrow keys.</item>
+<item>Compare 15.7337 to the absolute values of the numbers in the list. If any absolute value is greater than or equal to 15.7337, then the corresponding point is an outlier.</item>
+<item>Absolute values of the numbers in the list are approximately 5.59, 1.95, 2.31, 9.84.</item>
+<item>None of them are greater than or equal to 15.7337.</item>
+<item>Therefore, for this data set, no point is an outlier.</item></list></section></section>
+
+
+
+
+
+  </content>
+  
+</document>

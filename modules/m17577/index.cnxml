@@ -1,0 +1,14 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Video Lecture 10: Hypothesis Testing with Two Means</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m17577</md:content-id>
+  <md:title>Video Lecture 10: Hypothesis Testing with Two Means</md:title>
+  <md:abstract>This video lecture is designed as a supplement to the Hypothesis Testing: Two Means, Two Populations, Paired Data chapter of Collaborative Statistics (col10522) by Barbara Illowsky and Susan Dean. In this chapter, students can expect to learn how to classify hypothesis tests by type; conduct and interpret hypothesis tests for two population means with standard deviations that are both known and unknown; conduct and interpret hypothesis tests for two population proportions; and conduct and interpret hypothesis tests for matched or paired samples.</md:abstract>
+  <md:uuid>baabc3d6-8a6a-4e61-863c-3049a1b416be</md:uuid>
+</metadata>
+  <content>
+<figure id="id1165040977610"><media id="yt-media" display="block" alt="This video lecture is designed as a supplement to Chapter 10 of Collaborative Statistics (col10522) by Barbara Illowsky and Susan Dean. In this chapter, students can expect to learn how to classify hypothesis tests by type; conduct and interpret hypothesis tests for two population means with standard deviations that are both known and unknown; conduct and interpret hypothesis tests for two population proportions; and conduct and interpret hypothesis tests for matched or paired samples.">
+   <iframe width="425" height="344" src="https://www.youtube.com/embed/KSgDoWWZevU"/>
+</media></figure></content>
+  
+</document>

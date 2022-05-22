@@ -1,0 +1,174 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Exam 6: Chapter 12</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m17617</md:content-id>
+  <md:title>Exam 6: Chapter 12</md:title>
+  <md:abstract>Practice final exam for use with Collaborative Statistics (col10522) by Barbara Illowsky and Susan Dean.</md:abstract>
+  <md:uuid>84eaeac0-3535-48eb-bf3d-669a24f3b809</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me"><title>Questions 1 – 3 refer to the following:</title>New snowboarders (those who have snowboarded a year or less) often suffer from minor injuries. A random sample of seven new snowboarders produced the data on number of months snowboarding and number of minor injuries in the last month that they snowboarded.
+    </para>
+
+<table id="element-471" summary="A table with the first column showing months spent snowboarding, and the second column showing the number of injuries in the last month of snowboarding. ">
+
+<tgroup cols="2"><thead>
+<row>
+<entry>Months Snowboarding</entry>
+<entry># of injuries in the last month</entry>
+</row>
+</thead>
+<tbody>
+  <row>
+    <entry>2</entry>
+    <entry>9</entry>
+  </row>
+  <row>
+    <entry>4</entry>
+    <entry>6</entry>
+  </row>
+  <row>
+    <entry>8</entry>
+    <entry>3</entry>
+  </row>
+  <row>
+    <entry>12</entry>
+    <entry>2</entry>
+  </row>
+  <row>
+    <entry>1</entry>
+    <entry>9</entry>
+  </row>
+  <row>
+    <entry>5</entry>
+    <entry>6</entry>
+  </row>
+  <row>
+    <entry>9</entry>
+    <entry>2</entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table><exercise id="element-224"><problem id="id1166502302083">
+  <para id="element-92">
+     Is the correlation between the number of months snowboarding and the number of injuries in the last month snowboarding significant?
+  </para>	<list id="element-dada0" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>Yes</item>
+	<item><label>B</label>No</item>
+	<item><label>C</label>Not enough information to answer question</item>
+	</list>
+</problem>
+
+<solution id="id1166497178369">
+  <para id="element-539">
+    A
+  </para>
+</solution>
+</exercise><exercise id="element-894"><problem id="id1166510697374">
+  <para id="element-523">The linear regression equation is:
+  </para>	<list id="element-0dadq" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>yhat = 9.5904 – 0.9614 <m:math><m:mi>x</m:mi></m:math> </item>
+	<item><label>B</label>yhat = -0.7349 + 9.5904<m:math><m:mi>x</m:mi></m:math> </item>
+	<item><label>C</label>yhat = 9.5904 + 0.7349<m:math><m:mi>x</m:mi></m:math> </item>
+	<item><label>D</label>yhat = 9.5904 – 0.7349<m:math><m:mi>x</m:mi></m:math> </item></list>
+</problem>
+
+<solution id="id1166495959403">
+  <para id="element-0">
+    D
+  </para>
+</solution>
+</exercise><exercise id="element-827"><problem id="id1166507318999">
+  <para id="element-426">
+ If a new snowboarder has snowboarded for five (5) months, how many injuries would s/he have in the last month snowboarding?
+  </para>	<list id="element-0ada1" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>4.8</item>
+	<item><label>B</label>47.2</item>
+	<item><label>C</label>5.9</item>
+	<item><label>D</label>13.3</item></list>
+</problem>
+
+<solution id="id1166496792465">
+  <para id="element-421">
+    C
+  </para>
+</solution>
+</exercise><exercise id="element-104"><problem id="id1166501128226">
+  <para id="element-975">
+If you calculate the line of best fit and the independent variable and the dependent variable have negative correlation, then the line of best fit has slope zero (0).
+  </para>	<list id="element-ssf20" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>True</item>
+	<item><label>B</label>False</item>
+	<item><label>C</label>There is not enough information</item>
+	</list>
+</problem>
+
+<solution id="id1166495782675">
+  <para id="element-849">B
+  </para></solution>
+</exercise><para id="element-220"><title>Questions 5 – 6 refer to the following:</title>The cost of a leading gourmet ice cream in different sizes is given in the table.</para>
+
+<table id="element-977" summary="A table with the first column showing the size in ounces of the ice cream and the second column showing the cost. ">
+
+<tgroup cols="2"><thead>
+<row>
+<entry>Size (ounces)</entry>
+<entry>Cost</entry>
+</row>
+</thead>
+<tbody>
+  <row>
+    <entry>16</entry>
+    <entry>$4.29</entry>
+  </row>
+  <row>
+    <entry>32</entry>
+    <entry>$7.36</entry>
+  </row>
+  <row>
+    <entry>64</entry>
+    <entry>$12.80</entry>
+  </row>
+  <row>
+    <entry>96</entry>
+    <entry>$17.28</entry>
+  </row>
+</tbody>
+
+
+</tgroup>
+</table><exercise id="element-243"><problem id="id7065397">
+  <para id="element-77">
+	      Are there any outliers?
+  </para>	<list id="element-0sf2" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>Yes</item>
+	<item><label>B</label>No</item>
+	<item><label>C</label>Not enough information</item>
+	</list>
+</problem>
+
+<solution id="id1166496506707">
+  <para id="element-183">
+   B
+  </para>
+</solution>
+</exercise><exercise id="element-690"><problem id="id1166499457190">
+  <para id="element-949">
+If your friend used the line of best fit to predict the cost for a 128-ounce size of gourmet ice cream, what would you tell him/her with what you have learned about linear regression?
+  </para>	<list id="element-0sd2" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>That a line is not the best fit for the cost of the gourmet ice cream.</item>
+	<item><label>B</label>That the 128-ounce size of the gourmet ice cream is far too expensive.</item>
+	<item><label>C</label>That we should switch the independent and dependent variables.</item>
+	<item><label>D</label>That s/he should not use the line of best fit to make this prediction.</item></list>
+</problem>
+
+<solution id="id1166498591224">
+  <para id="element-252">
+    D
+  </para>
+</solution>
+</exercise>   
+  </content>
+  
+</document>
