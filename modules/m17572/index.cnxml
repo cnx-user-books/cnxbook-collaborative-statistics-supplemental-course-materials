@@ -1,8 +1,8 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Video Lecture 12: Linear Regression and Correlation</title>
+  <title>Video Lecture 3: Linear Regression and Correlation</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m17572</md:content-id>
-  <md:title>Video Lecture 12: Linear Regression and Correlation</md:title>
+  <md:title>Video Lecture 3: Linear Regression and Correlation</md:title>
   <md:abstract>This video lecture is designed as a supplement to the Linear Regression and Correlation chapter of Collaborative Statistics (col10522) by Barbara Illowsky and Susan Dean. In this chapter, students can expect to learn how to discuss basic ideas of linear regression and correlation; create and interpret a line of best fit; and calculate and interpret the correlation coefficient and outliers.</md:abstract>
   <md:uuid>d9b04aeb-5158-4efa-861b-33f503be7f91</md:uuid>
 </metadata>

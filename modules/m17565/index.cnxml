@@ -1,8 +1,8 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Video Lecture 4: Discrete Distributions</title>
+  <title>Video Lecture 5: Discrete Distributions</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m17565</md:content-id>
-  <md:title>Video Lecture 4: Discrete Distributions</md:title>
+  <md:title>Video Lecture 5: Discrete Distributions</md:title>
   <md:abstract>This video lecture is designed as a supplement to the Discrete Distributions of Collaborative Statistics (col10522) by Barbara Illowsky and Susan Dean. In this chapter, students can expect to learn how to recognize and understand discrete probability distribution functions; calculate and interpret expected values; recognize and apply the binomial probability distribution, the Poisson probability distribution, the geometric probability distribution, and the hypergeometric probability distribution; and classify discrete word problems by their distributions.</md:abstract>
   <md:uuid>b54ae142-bdf1-4555-bdaf-69c9ab44d5e2</md:uuid>
 </metadata>

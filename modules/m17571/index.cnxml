@@ -1,8 +1,8 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Video Lecture 11: The Chi-Square Distribution</title>
+  <title>Video Lecture 12: The Chi-Square Distribution</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m17571</md:content-id>
-  <md:title>Video Lecture 11: The Chi-Square Distribution</md:title>
+  <md:title>Video Lecture 12: The Chi-Square Distribution</md:title>
   <md:abstract>This video lecture is designed as a supplement to the Chi-Square Distribution chapter of Collaborative Statistics (col10522) by Barbara Illowsky and Susan Dean. In this chapter, students can expect to learn how to interpret the chi-square probability distribution as the sample size changes; conduct and interpret chi-square goodness-of-fit hypothesis tests; conduct and intepret chi-square test of independence tests; and conduct and interpret chi-square single variance hypothesis tests.</md:abstract>
   <md:uuid>d50b8f7b-c40c-4c58-a80e-68d23f27c53e</md:uuid>
 </metadata>
